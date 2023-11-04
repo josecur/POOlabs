@@ -1,0 +1,4 @@
+Ivanna,Gomez,654123,ivanna.gomez@usil.pe
+Jose,Cordova,090651,josecordovafernand3z@gmail.com
+Maria,Reyes,984521,maria.reyesar@usil.pe
+Angelo,Garcia,65162,angelo.garciar@usil.pe

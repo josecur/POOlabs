@@ -1,0 +1,10 @@
+Salmón Fresco por kg,42.99,30,Filetes de salmón fresco de la mejor calidad, listos para cocinar a la parrilla, asar o hornear. Rico en ácidos grasos omega-3
+Camarones Grandes Congelados por kg,29.99,20,Camarones grandes y jugosos, pelados y desvenados, listos para preparar deliciosos platillos de mariscos.
+Calamares Calientes en Tinta por paquete de 500 g,24.99,25,Anillas de calamares tiernos en su tinta, perfectos para platos de pasta y arroces.
+Pulpo Cocido por kg,67.99,36,ideal para ensaladas, ceviches y platos de mariscos.
+Filetes de Bacalao Salado por kg,36.99,21,Filetes de bacalao de primera calidad, desalados y listos para cocinar. Perfectos para guisos y platos al horno.
+Sardinas en Conserva por lata de 100 g,11.99,100,Sardinas frescas en aceite de oliva, enlatadas a la perfección. Ideal para bocadillos y ensaladas.
+Langostinos Cocidos por kg,49.99,20,listos para disfrutar en cócteles, ensaladas o platos de pasta.
+Anchoas en Aceite de Oliva por frascos de 100 g,15.99,60,Anchoas en aceite de oliva virgen extra, con un sabor intenso y salado. Perfectas para pizzas y ensaladas.
+Mejillones en Escabeche por frasco de 250 g,10.99,48,Mejillones en escabeche con una mezcla de sabores mediterráneos. Ideales como aperitivo o acompañamiento.
+Cangrejo Real Desmenuzado por kg,89.99,60,Cangrejo real desmenuzado, ideal para preparar deliciosos pasteles de cangrejo o ensaladas.
